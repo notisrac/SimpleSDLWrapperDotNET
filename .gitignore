@@ -1,0 +1,11 @@
+*.suo
+*.user
+*.cache
+_ReSharper.*
+bin/*
+obj/*
+*/bin/*
+*/obj/*
+Build
+packages/*
+.nuget/*.exe
