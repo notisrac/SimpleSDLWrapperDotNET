@@ -103,3 +103,7 @@ Then all you need to do is call play on it:
 
 ### Sample
 Check the TestApp for a complete sample!
+
+
+
+[![Analytics](https://ga-beacon.appspot.com/UA-122950438-1/SimpleSDLWrapperDotNET)](https://github.com/igrigorik/ga-beacon)
